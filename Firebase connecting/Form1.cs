@@ -80,6 +80,18 @@ namespace Firebase_connecting
             Data result = response.ResultAs<Data>();
             MessageBox.Show("Data updated at ID: " + result.Id);
         }
+
+        private async void button4_Click(object sender, EventArgs e)
+        {
+            FirebaseResponse response = await client.DeleteTaskAsync("Information/" + textBox1.Text);
+            MessageBox.Show("Delete record of ID:" +textBox1.Text);
+        }
+
+        private async void button5_Click(object sender, EventArgs e)
+        {
+            FirebaseResponse response = await client.DeleteTaskAsync("Information");
+            MessageBox.Show("All element deleted");
+        }
     }
 
     internal class Data
