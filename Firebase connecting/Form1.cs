@@ -52,6 +52,19 @@ namespace Firebase_connecting
 
             MessageBox.Show("Data Inserted" + result.Id);
         }
+
+        private async void button2_Click(object sender, EventArgs e)
+        {
+            FirebaseResponse response = await client.GetTaskAsync("Information/"+textBox1.Text);
+            Data obj = response.ResultAs<Data>();
+
+            textBox1.Text = obj.Id;
+            textBox2.Text = obj.Name;
+            textBox3.Text = obj.Address;
+            textBox4.Text = obj.Age;
+
+            MessageBox.Show("Data retrived successfully");
+        }
     }
 
     internal class Data
