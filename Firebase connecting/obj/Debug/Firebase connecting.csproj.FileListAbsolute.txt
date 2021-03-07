@@ -1,0 +1,17 @@
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\bin\Debug\Firebase connecting.exe.config
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\bin\Debug\Firebase connecting.exe
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\bin\Debug\Firebase connecting.pdb
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\bin\Debug\FireSharp.dll
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\bin\Debug\RestSharp.dll
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\bin\Debug\RestSharp.xml
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\obj\Debug\Firebase connecting.csprojAssemblyReference.cache
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\obj\Debug\Firebase_connecting.Form1.resources
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\obj\Debug\Firebase_connecting.Properties.Resources.resources
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\obj\Debug\Firebase connecting.csproj.GenerateResource.cache
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\obj\Debug\Firebase connecting.csproj.CoreCompileInputs.cache
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\obj\Debug\Firebase connecting.csproj.CopyComplete
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\obj\Debug\Firebase connecting.exe
+C:\Users\Chanuka Dinuwan\source\repos\Firebase connecting\Firebase connecting\obj\Debug\Firebase connecting.pdb
